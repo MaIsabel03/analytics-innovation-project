@@ -1,7 +1,7 @@
 # Player Fatigue Impact Metric (PFIM)
 **Student:** Marcela Redondo Hernandez   
 **Course:** CIS627 Sports Analytics   
-**Assignment:** Analytics Innovation & Version Control (Unit 5)
+**Assignment:** Analytics Innovation & Version Control (Unit 5)  
 **Date:** April 19 2026
 
 ## Project Overview  
