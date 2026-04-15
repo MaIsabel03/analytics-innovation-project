@@ -44,13 +44,13 @@ Fatigue does not affect players the same way in every situation. For example, a 
 Including game context gives a more complete picture and helps coaches make better decisions based on what’s happening in the game, not just how tired a player is.
 
 ## Prototype Evaluation  
-The prototype enhancement shows strong potential and should be considered for integration into the main project. Adding game context makes the metric more useful and better aligned with real game situations. 
-However, feedback from decision makers is important before making a final decision. Coaches and staff would need to confirm:
+The prototype enhancement shows strong potential and should be considered for integration into the main project. Adding game context makes the metric more useful and better aligned with real game situations. However, feedback from decision makers is important before making a final decision. Coaches and staff would need to confirm:
 - Whether the additional information is easy to understand  
 - If the metric helps them make faster decisions during games  
-- If the added context improves their trust in the tool
-- 
-If the tool becomes too complex or difficult to use during a game, it may reduce its effectiveness even if it is more accurate.  
+- If the added context improves their trust in the tool  
+
+If the tool becomes too complex or difficult to use during a game, it may reduce its effectiveness even if it is more accurate.
+This supports moving forward with the enhancement, provided it remains simple and practical for in-game use.  
 
 ## Reflection on Innovation and Version Control  
 Using branches allows teams to test new ideas without affecting the main project. This makes it easier to experiment and improve analytics tools in a low-risk way.
