@@ -29,3 +29,16 @@ This helps decision-makers make faster and more informed choices instead of rely
 
 ## Connection to Chapter 7  
 This idea represents the **Creative Phase** of analytics innovation. According to Chapter 7, the creative phase focuses on developing new ideas that could provide value to an organization. At this stage, the idea is clearly defined, but it has not yet been tested or introduced to decision makers.
+
+## Prototype Enhancement   
+This prototype improves the original idea by adding **game context information** to the fatigue metric.
+
+### What is being changed  
+The fatigue metric will now consider additional factors such as:
+- Score difference (close game vs. blowout)  
+- Game pace  
+- Player role (starter vs. bench player)  
+
+### Why this improves decision-making  
+Fatigue does not affect players the same way in every situation. For example, a player may perform differently when the game is close compared to when the team is leading by a large margin.
+The addition of game context makes the metric more useful and helps coaches make decisions based on the game situation, not just fatigue.
