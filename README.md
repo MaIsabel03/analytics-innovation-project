@@ -42,3 +42,21 @@ The fatigue metric will now consider additional factors such as:
 ### Why this improves decision-making  
 Fatigue does not affect players the same way in every situation. For example, a player may perform differently when the game is close compared to when the team is leading by a large margin.
 Including game context gives a more complete picture and helps coaches make better decisions based on what’s happening in the game, not just how tired a player is.
+
+## Prototype Evaluation  
+The prototype enhancement shows strong potential and should be considered for integration into the main project. Adding game context makes the metric more useful and better aligned with real game situations. 
+However, feedback from decision makers is important before making a final decision. Coaches and staff would need to confirm:
+- Whether the additional information is easy to understand  
+- If the metric helps them make faster decisions during games  
+- If the added context improves their trust in the tool
+- 
+If the tool becomes too complex or difficult to use during a game, it may reduce its effectiveness even if it is more accurate.  
+
+## Reflection on Innovation and Version Control  
+Using branches allows teams to test new ideas without affecting the main project. This makes it easier to experiment and improve analytics tools in a low-risk way.
+GitHub helps analytics ideas gain traction by keeping everything organized and allowing changes to be tracked over time. It also makes it easier to share updates and improvements with others.
+This process follows the innovation framework from Chapter 7, where ideas move from the creative phase to prototyping, then to evaluation and finally to implementation. GitHub supports this process by making it easier to manage each step and improve ideas over time.
+
+## References  
+Alamar, B. C. (2024). Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers. Columbia University Press.  
+Chugani, V. (2024). The Future of Sports Analytics: Emerging Trends and Technologies. Statology.
